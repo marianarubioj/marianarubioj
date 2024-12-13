@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋 Soy Mariana Rubio
 
 <!--
 **marianarubioj/marianarubioj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Cómo me encuentras:
+- [LinkedIn](https://www.linkedin.com/in/marianarubio/)
+- [gmail](marianarubio0328@gmail.com)
+- 
